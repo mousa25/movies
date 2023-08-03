@@ -1,3 +1,4 @@
+With This App can i search movies and add this to watchlist or watched 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
